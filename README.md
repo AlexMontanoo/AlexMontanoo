@@ -1,4 +1,5 @@
 # DataScience
+![image](https://github.com/user-attachments/assets/f2b4dd06-7b56-4751-a49e-aaefa551f383)
 
 Hello, I'm Alex, a passionate Data Scientist specializing in data science, machine learning, data cleaning, and predictive modeling.
 
