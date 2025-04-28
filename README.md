@@ -1,16 +1,19 @@
-## Hi there 👋
+# DataScience
 
-<!--
-**AlexMontanoo/AlexMontanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Alex, a passionate Data Scientist specializing in data science, machine learning, data cleaning, and predictive modeling.
 
-Here are some ideas to get you started:
+- **Extracting, cleaning, and analyzing data** using SQL and Python to derive actionable insights.
+- **Developing and deploying predictive models** using machine learning techniques for forecasting and classification tasks.
+- **Conducting exploratory data analysis (EDA)** to uncover patterns, trends, and correlations in complex datasets.
+- **Performing advanced data manipulation, aggregation, and reporting** with tools like Google Sheets and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+Welcome to my portfolio, where I showcase my Data Science projects.
+
+## 🧰 Tools
+- **Language:** Python, SQL
+- **Database:** PostgreSQL, MySQL
+- **Visualization:** Matplotlib, Seaborn, Plotly
+
+## 🔗 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/alexmontanomogica)
