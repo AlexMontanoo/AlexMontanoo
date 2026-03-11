@@ -1,4 +1,4 @@
-# DataScience
+# DataScience / Machine Learning Projects
 
 Hello, I'm Alex, a passionate Data Scientist specializing in data science, machine learning, data cleaning, and predictive modeling.
 
